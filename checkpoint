@@ -1,0 +1,2 @@
+model_checkpoint_path: "decoder.weights.TF"
+all_model_checkpoint_paths: "decoder.weights.TF"
